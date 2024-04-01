@@ -1,0 +1,18 @@
+{
+  "name": "2.solana-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@solana-developers/helpers": "^2.2.0",
+    "@solana/web3.js": "^1.91.2",
+    "ts-node": "^10.9.2"
+  }
+}
